@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/ninetails/learning-microfrontend/issues"
   },
-  "homepage": "https://github.com/ninetails/learning-microfrontend#readme"
+  "homepage": "https://github.com/ninetails/learning-microfrontend#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.2",
+    "connect": "^3.6.6",
+    "connect-logger": "0.0.1"
+  }
 }
